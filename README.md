@@ -22,7 +22,7 @@ repositories {
 }
 
 dependencies {
-    compile 'org.sufficientlysecure:html-textview:4.0'
+    implementation 'org.sufficientlysecure:html-textview:4.0'
 }
 ```
 
